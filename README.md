@@ -25,3 +25,9 @@ vagrant up
 Visit http://localhost:8080/admin and sign in using `Admin:admin`.
 
 For more information check out http://mediadrop.net.
+
+## License
+
+Copyright © 2015 James Conroy-Finn
+
+Released under the MIT license.
